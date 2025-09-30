@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/ChatGPT Image 28 sept 2025, 02_33_51.png
-coverY: 43.25652841781874
+cover: ../.gitbook/assets/Ethical Hacking-1.png
+coverY: 64.49155145929339
 ---
 
 # Ethical Hacking
