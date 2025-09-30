@@ -5,5 +5,5 @@ coverY: 43.25652841781874
 
 # Ethical Hacking
 
-Esta es una recopilación de los cursos c/s certificado gratuitos sobre Hacking Ético:
+Esta es una recopilación de los cursos/certificados gratuitos sobre Hacking Ético:
 
