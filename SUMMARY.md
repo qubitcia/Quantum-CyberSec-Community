@@ -4,7 +4,7 @@
 
 ## 🟢 Complement for Everyone
 
-* [Page 1](complement-for-everyone/page-1.md)
+* [Intro to Cybersecurity](complement-for-everyone/intro-to-cybersecurity.md)
 
 ## 🔵 Defensive Security
 
