@@ -5,6 +5,7 @@
 ## 🟢 Complement for Everyone
 
 * [Intro to Cybersecurity](complement-for-everyone/intro-to-cybersecurity.md)
+* [Quantum Computing!!!](complement-for-everyone/quantum-computing.md)
 
 ## 🔵 Defensive Security
 
