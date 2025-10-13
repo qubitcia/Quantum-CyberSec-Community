@@ -11,6 +11,7 @@
 
 * [SOC Analyst](defensive-security/soc-analyst.md)
 * [Threat Detection - Investigation - Response](defensive-security/threat-detection-investigation-response.md)
+* [Security Engineering](defensive-security/security-engineering.md)
 
 ## 🔴 Offensive Security
 
