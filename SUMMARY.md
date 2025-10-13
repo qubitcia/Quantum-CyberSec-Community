@@ -15,6 +15,7 @@
 ## 🔴 Offensive Security
 
 * [Ethical Hacking](offensive-security/ethical-hacking.md)
+* [Reconnaissance & OSINT](offensive-security/reconnaissance-and-osint.md)
 
 ## Group 4
 
