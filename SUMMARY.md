@@ -13,6 +13,7 @@
 * [Threat Detection - Investigation - Response](defensive-security/threat-detection-investigation-response.md)
 * [Security Engineering](defensive-security/security-engineering.md)
 * [Digital Forensics](defensive-security/digital-forensics.md)
+* [Network Security](defensive-security/network-security.md)
 
 ## 🔴 Offensive Security
 
