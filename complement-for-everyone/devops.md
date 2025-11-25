@@ -1,0 +1,8 @@
+---
+cover: ../.gitbook/assets/ChatGPT Image 25 nov 2025, 03_33_22.png
+coverY: 19.79891724671307
+---
+
+# DevOps
+
+Esta es una recopilación de los cursos/certificados gratuitos sobre DevOps:
