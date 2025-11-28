@@ -8,6 +8,7 @@
 * [Quantum Computing!!!](complement-for-everyone/quantum-computing.md)
 * [DevOps](complement-for-everyone/devops.md)
 * [DevSecOps](complement-for-everyone/devsecops.md)
+* [Digital Sustainability](complement-for-everyone/digital-sustainability.md)
 
 ## 🔵 Defensive Security
 
