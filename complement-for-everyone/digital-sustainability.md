@@ -5,7 +5,7 @@ coverY: -236.0030935808199
 
 # Digital Sustainability
 
-Esta es una recopilación de los cursos/certificados gratuitos sobre DevOps:
+Esta es una recopilación de los cursos/certificados gratuitos sobre Sostenibilidad Digital:
 
 <figure><img src="../.gitbook/assets/sdasdasd (1).png" alt=""><figcaption><p><a href="https://www.netacad.com/"><strong>Cisco Networking Academy</strong></a></p></figcaption></figure>
 
