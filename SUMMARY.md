@@ -9,6 +9,7 @@
 * [DevOps](complement-for-everyone/devops.md)
 * [DevSecOps](complement-for-everyone/devsecops.md)
 * [Digital Sustainability](complement-for-everyone/digital-sustainability.md)
+* [Data Engineering](complement-for-everyone/data-engineering.md)
 
 ## 🔵 Defensive Security
 

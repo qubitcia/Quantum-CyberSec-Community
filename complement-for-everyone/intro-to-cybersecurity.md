@@ -4,7 +4,7 @@ coverY: 0
 
 # Intro to Cybersecurity
 
-Esta es una recopilación de los cursos/certificados gratuitos para una introducción general a la ciberseguridad:
+Esta es una recopilación de los cursos/certificados gratuitos para una introducción general a la Ciberseguridad:
 
 <figure><img src="../.gitbook/assets/linux-foundation (1).png" alt=""><figcaption><p><a href="https://www.linuxfoundation.org/"><strong>The Linux Foundation</strong></a></p></figcaption></figure>
 
