@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/Python Wallpaper.png
-coverY: 5.109410864575364
+coverY: 7.2991583779648055
 coverHeight: 322
 ---
 
