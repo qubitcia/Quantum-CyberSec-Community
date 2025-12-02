@@ -1,6 +1,7 @@
 ---
 cover: ../.gitbook/assets/ChatGPT Image 25 nov 2025, 03_33_22.png
-coverY: 19.79891724671307
+coverY: 30.767547698128528
+coverHeight: 320
 ---
 
 # DevOps
@@ -23,4 +24,6 @@ Esta es una recopilación de los cursos/certificados gratuitos sobre DevOps:
 * [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615) :&#x20;
 * [Continuous Integration and Deployment](https://www.udacity.com/course/continuous-integration-and-deployment--ud1030) :&#x20;
 * [Deploying Web Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272) :&#x20;
+
+
 

@@ -1,6 +1,7 @@
 ---
 cover: ../.gitbook/assets/ChatGPT Image 28 nov 2025, 14_39_45.png
-coverY: 383.307037896365
+coverY: 359.61438408569245
+coverHeight: 321
 ---
 
 # Data Engineering

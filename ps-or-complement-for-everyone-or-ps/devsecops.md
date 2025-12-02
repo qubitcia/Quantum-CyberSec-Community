@@ -1,6 +1,7 @@
 ---
 cover: ../.gitbook/assets/ChatGPT Image 28 nov 2025, 13_53_34.png
-coverY: 357.9644238205723
+coverY: 376.7677903087131
+coverHeight: 320
 ---
 
 # DevSecOps
