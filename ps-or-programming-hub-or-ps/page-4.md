@@ -1,6 +1,7 @@
 ---
-cover: ../.gitbook/assets/ChatGPT Image 2 dic 2025, 01_01_40.png
-coverY: 43.87452180566182
+cover: ../.gitbook/assets/Python Wallpaper.png
+coverY: 5.109410864575364
+coverHeight: 322
 ---
 
 # Python (Py)
