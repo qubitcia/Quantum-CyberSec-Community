@@ -1,6 +1,7 @@
 ---
 cover: ../.gitbook/assets/ChatGPT Image 26 sept 2025, 12_55_16.png
 coverY: 22.330218068535824
+coverHeight: 318
 ---
 
 # SOC Analyst
