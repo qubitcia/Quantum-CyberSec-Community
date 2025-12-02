@@ -28,7 +28,7 @@
 ## ⟨ Ψ | 💻 • Programming Hub | Ψ ⟩
 
 * [Python (Py)](ps-or-programming-hub-or-ps/page-4.md)
-* [Page 1](ps-or-programming-hub-or-ps/page-1.md)
+* [JavaScript (JS)](ps-or-programming-hub-or-ps/javascript-js.md)
 
 ## Group 5
 
