@@ -23,7 +23,7 @@
 
 * [Ethical Hacking](offensive-security/ethical-hacking.md)
 * [Reconnaissance & OSINT](offensive-security/reconnaissance-and-osint.md)
-* [Page 1](offensive-security/page-1.md)
+* [Application Pentesting](offensive-security/application-pentesting.md)
 
 ## Group 4
 
