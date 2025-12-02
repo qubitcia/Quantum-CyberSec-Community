@@ -2,32 +2,33 @@
 
 * [Quantum CyberSec Community](README.md)
 
-## 🟢 Complement for Everyone
+## ⟨ Ψ | 🟢 • Complement for Everyone | Ψ ⟩
 
-* [Intro to Cybersecurity](complement-for-everyone/intro-to-cybersecurity.md)
-* [Quantum Computing!!!](complement-for-everyone/quantum-computing.md)
-* [DevOps](complement-for-everyone/devops.md)
-* [DevSecOps](complement-for-everyone/devsecops.md)
-* [Digital Sustainability](complement-for-everyone/digital-sustainability.md)
-* [Data Engineering](complement-for-everyone/data-engineering.md)
+* [Intro to Cybersecurity](ps-or-complement-for-everyone-or-ps/intro-to-cybersecurity.md)
+* [Quantum Computing!!!](ps-or-complement-for-everyone-or-ps/quantum-computing.md)
+* [DevOps](ps-or-complement-for-everyone-or-ps/devops.md)
+* [DevSecOps](ps-or-complement-for-everyone-or-ps/devsecops.md)
+* [Digital Sustainability](ps-or-complement-for-everyone-or-ps/digital-sustainability.md)
+* [Data Engineering](ps-or-complement-for-everyone-or-ps/data-engineering.md)
 
-## 🔵 Defensive Security
+## ⟨ Ψ | 🔵 • Defensive Security | Ψ ⟩
 
-* [SOC Analyst](defensive-security/soc-analyst.md)
-* [Threat Detection - Investigation - Response](defensive-security/threat-detection-investigation-response.md)
-* [Security Engineering](defensive-security/security-engineering.md)
-* [Digital Forensics](defensive-security/digital-forensics.md)
-* [Network Security](defensive-security/network-security.md)
+* [SOC Analyst](ps-or-defensive-security-or-ps/soc-analyst.md)
+* [Threat Detection - Investigation - Response](ps-or-defensive-security-or-ps/threat-detection-investigation-response.md)
+* [Security Engineering](ps-or-defensive-security-or-ps/security-engineering.md)
+* [Digital Forensics](ps-or-defensive-security-or-ps/digital-forensics.md)
+* [Network Security](ps-or-defensive-security-or-ps/network-security.md)
 
-## 🔴 Offensive Security
+## ⟨ Ψ | 🔴 • Offensive Security | Ψ ⟩
 
-* [Ethical Hacking](offensive-security/ethical-hacking.md)
-* [Reconnaissance & OSINT](offensive-security/reconnaissance-and-osint.md)
-* [Application Pentesting](offensive-security/application-pentesting.md)
+* [Ethical Hacking](ps-or-offensive-security-or-ps/ethical-hacking.md)
+* [Reconnaissance & OSINT](ps-or-offensive-security-or-ps/reconnaissance-and-osint.md)
+* [Application Pentesting](ps-or-offensive-security-or-ps/application-pentesting.md)
 
-## Group 4
+## ⟨ Ψ | 💻 • Programming Hub | Ψ ⟩
 
-* [Page 4](group-4/page-4.md)
+* [Python (Py)](ps-or-programming-hub-or-ps/page-4.md)
+* [Page 1](ps-or-programming-hub-or-ps/page-1.md)
 
 ## Group 5
 

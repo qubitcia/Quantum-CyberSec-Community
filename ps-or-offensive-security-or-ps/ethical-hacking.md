@@ -1,6 +1,7 @@
 ---
 cover: ../.gitbook/assets/Ethical Hacking-1.png
 coverY: 64.49155145929339
+coverHeight: 321
 ---
 
 # Ethical Hacking

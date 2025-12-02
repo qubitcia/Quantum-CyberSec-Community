@@ -1,6 +1,7 @@
 ---
 cover: ../.gitbook/assets/ChatGPT Image 28 sept 2025, 03_01_34.png
 coverY: -9.394495412844037
+coverHeight: 321
 ---
 
 # Reconnaissance & OSINT
