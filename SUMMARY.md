@@ -29,6 +29,7 @@
 
 * [Python (Py)](ps-or-programming-hub-or-ps/page-4.md)
 * [JavaScript (JS)](ps-or-programming-hub-or-ps/javascript-js.md)
+* [C++](ps-or-programming-hub-or-ps/c++.md)
 
 ## Group 5
 
