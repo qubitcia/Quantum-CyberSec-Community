@@ -21,3 +21,9 @@ Esta es una recopilación de los cursos/certificados gratuitos sobre C++:
 <figure><img src="../.gitbook/assets/blob (1).png" alt=""><figcaption><p><a href="https://www.saylor.org/"><strong>Saylor Academy</strong></a></p></figcaption></figure>
 
 * [CS107: C++ Programming](https://learn.saylor.org/course/view.php?id=65) :&#x20;
+
+<figure><img src="../.gitbook/assets/c++ institute logo.png" alt=""><figcaption><p><a href="https://cppinstitute.org/"><strong>C++ Institute</strong></a></p></figcaption></figure>
+
+* [C++ Essentials 1](https://cppinstitute.org/cpp-essentials-1) :&#x20;
+* [C++ Essentials 2](https://cppinstitute.org/cpp-essentials-2) :&#x20;
+* [C++ Advanced](https://cppinstitute.org/cpp-advanced) :
