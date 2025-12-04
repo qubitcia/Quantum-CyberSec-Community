@@ -30,7 +30,7 @@
 * [Python (Py)](ps-or-programming-hub-or-ps/page-4.md)
 * [JavaScript (JS)](ps-or-programming-hub-or-ps/javascript-js.md)
 * [C++](ps-or-programming-hub-or-ps/c++.md)
-* [C](ps-or-programming-hub-or-ps/c.md)
+* [C](ps-or-programming-hub-or-ps/page-1.md)
 * [R](ps-or-programming-hub-or-ps/r.md)
 * [Ruby](ps-or-programming-hub-or-ps/ruby.md)
 * [Rust](ps-or-programming-hub-or-ps/rust.md)
