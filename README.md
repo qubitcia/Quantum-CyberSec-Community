@@ -11,3 +11,7 @@ El objetivo es:
 * Centralizar información de certificaciones, cursos y guías.
 * Servir como base de consulta para la comunidad.
 * Conectarse con GitBook para ofrecer un portal navegable.
+
+
+
+hola
