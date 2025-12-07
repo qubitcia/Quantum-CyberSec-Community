@@ -36,6 +36,7 @@
 * [Ruby](ps-or-programming-hub-or-ps/ruby.md)
 * [Rust](ps-or-programming-hub-or-ps/rust.md)
 * [Golang (Go)](ps-or-programming-hub-or-ps/golang-go.md)
+* [Swift](ps-or-programming-hub-or-ps/swift.md)
 
 ## Group 5
 
