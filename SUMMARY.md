@@ -37,6 +37,7 @@
 * [Rust](ps-or-programming-hub-or-ps/rust.md)
 * [Golang (Go)](ps-or-programming-hub-or-ps/golang-go.md)
 * [Swift](ps-or-programming-hub-or-ps/swift.md)
+* [PHP](ps-or-programming-hub-or-ps/php.md)
 
 ## Group 5
 
