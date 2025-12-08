@@ -5,8 +5,8 @@
 ## ⟨ Ψ | 🟢 • Complement for Everyone | Ψ ⟩
 
 * [Intro to Cybersecurity](ps-or-complement-for-everyone-or-ps/intro-to-cybersecurity.md)
-* [Quantum Computing!!!](ps-or-complement-for-everyone-or-ps/quantum-computing.md)
 * [DevOps](ps-or-complement-for-everyone-or-ps/devops.md)
+* [Quantum Computing!!!](ps-or-complement-for-everyone-or-ps/quantum-computing.md)
 * [DevSecOps](ps-or-complement-for-everyone-or-ps/devsecops.md)
 * [Digital Sustainability](ps-or-complement-for-everyone-or-ps/digital-sustainability.md)
 * [Data Engineering](ps-or-complement-for-everyone-or-ps/data-engineering.md)
