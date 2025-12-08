@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Quantum CyberSec Community](README.md)
+* [Q-Repo](README.md)
 
 ## ⟨ Ψ | 🟢 • Complement for Everyone | Ψ ⟩
 
