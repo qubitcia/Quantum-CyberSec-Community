@@ -22,3 +22,7 @@ Esta es una recopilación de los cursos/certificados gratuitos sobre JavaScript 
 
 * [PRDV401: Introduction to JavaScript I](https://learn.saylor.org/course/view.php?id=502) :&#x20;
 
+<figure><img src="../.gitbook/assets/292462037_36da.jpg" alt=""><figcaption><p><a href="https://www.simplilearn.com/skillup-free-online-courses"><strong>Simplilearn - Skillup</strong></a></p></figcaption></figure>
+
+* [JavaScript for Beginners](https://www.simplilearn.com/learn-javascript-basics-free-course-skillup) :&#x20;
+

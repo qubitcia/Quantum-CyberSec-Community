@@ -29,7 +29,7 @@
 
 * [Python (Py)](ps-or-programming-hub-or-ps/page-4.md)
 * [JavaScript (JS)](ps-or-programming-hub-or-ps/javascript-js.md)
-* [TypeScript (TS)](ps-or-programming-hub-or-ps/typescript-ts.md)
+* [TypeScript (TS)](ps-or-programming-hub-or-ps/page-1.md)
 * [C++](ps-or-programming-hub-or-ps/c++.md)
 * [C](<ps-or-programming-hub-or-ps/page-1 (1).md>)
 * [C#](ps-or-programming-hub-or-ps/c-1.md)
