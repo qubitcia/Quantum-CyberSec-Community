@@ -39,6 +39,7 @@
 * [Golang (Go)](ps-or-programming-hub-or-ps/golang-go.md)
 * [Swift](ps-or-programming-hub-or-ps/swift.md)
 * [PHP](ps-or-programming-hub-or-ps/php.md)
+* [Java](ps-or-programming-hub-or-ps/java.md)
 
 ## Group 5
 
