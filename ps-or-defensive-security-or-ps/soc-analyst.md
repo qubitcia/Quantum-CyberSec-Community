@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/ChatGPT Image 26 sept 2025, 12_55_16.png
-coverY: 22.330218068535824
+cover: ../.gitbook/assets/ChatGPT Image 8 dic 2025, 20_12_07.png
+coverY: 0
 coverHeight: 318
 ---
 

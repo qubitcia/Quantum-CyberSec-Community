@@ -40,7 +40,3 @@
 * [Swift](ps-or-programming-hub-or-ps/swift.md)
 * [PHP](ps-or-programming-hub-or-ps/php.md)
 * [Java](ps-or-programming-hub-or-ps/java.md)
-
-## Group 5
-
-* [Page 5](group-5/page-5.md)
