@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/ChatGPT Image 26 sept 2025, 13_06_04.png
-coverY: -76.02988938068917
+cover: ../.gitbook/assets/Threat Detection - Investigation - Response.png
+coverY: -36.072735593390014
 coverHeight: 320
 ---
 
