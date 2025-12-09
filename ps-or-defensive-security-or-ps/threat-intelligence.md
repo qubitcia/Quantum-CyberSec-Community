@@ -10,7 +10,20 @@ Esta es una recopilación de los cursos/certificados gratuitos para Inteligencia
 
 <figure><img src="../.gitbook/assets/channels4_profile (1).png" alt=""><figcaption><p><a href="https://www.academy.attackiq.com/"><strong>AttackIQ Academy</strong></a></p></figcaption></figure>
 
-* [Threat-Informed Architecture](https://www.academy.attackiq.com/courses/validating-defenses-quickly-with-micro-emulation-plans) :&#x20;
-* [Jupyter Notebooks for Security Control Validation](https://www.academy.attackiq.com/courses/jupyter-notebooks-for-security-control-validation) :&#x20;
-* [Assessment Design for Security Controls](https://www.academy.attackiq.com/courses/assessment-design-for-security-controls) :&#x20;
-* [AttackIQ Foundational Blueprints](https://www.academy.attackiq.com/courses/attackiq-foundational-blueprints) :&#x20;
+* [Mapping MITRE ATT\&CK to CVE for Impact](https://www.academy.attackiq.com/courses/mapping-mitre-attck-to-cve-for-impact) :&#x20;
+* [Unlocking the Power of CTI Blueprints](https://www.academy.attackiq.com/courses/unlocking-the-power-of-cti-blueprints) :&#x20;
+* [Advanced Cyber Threat Intelligence Writing: Crafting Actionable Reports](https://www.academy.attackiq.com/courses/advanced-cyber-threat-intelligence-writing-crafting-actionable-reports) :&#x20;
+* [Delivering Value with the ATT\&CK Sightings Report](https://www.academy.attackiq.com/courses/delivering-value-with-the-attck-sightings-report) :&#x20;
+* [Extending ATT\&CK with ATT\&CK Workbench](https://www.academy.attackiq.com/courses/extending-attck-with-attck-workbench) :&#x20;
+* [Foundations Of Cyber Threat Intelligence](https://www.academy.attackiq.com/courses/foundations-of-cyber-threat-intelligence) :&#x20;
+
+<figure><img src="../.gitbook/assets/descarga (7) (1).png" alt=""><figcaption><p><a href="https://arcx.io/"><strong>arcX</strong></a></p></figcaption></figure>
+
+* [Cyber Threat Intelligence 101](https://arcx.io/courses/cyber-threat-intelligence-101) :&#x20;
+
+<figure><img src="../.gitbook/assets/descarga (8).png" alt=""><figcaption><p><a href="https://www.securityblue.team/"><strong>Security Blue Team</strong></a></p></figcaption></figure>
+
+* [Introduction to Vulnerability Management](https://www.securityblue.team/courses/introduction-to-vulnerability-management) :&#x20;
+
+
+
