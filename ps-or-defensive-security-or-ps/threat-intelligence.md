@@ -23,7 +23,7 @@ Esta es una recopilación de los cursos/certificados gratuitos para Inteligencia
 
 <figure><img src="../.gitbook/assets/descarga (8).png" alt=""><figcaption><p><a href="https://www.securityblue.team/"><strong>Security Blue Team</strong></a></p></figcaption></figure>
 
-* [Introduction to Vulnerability Management](https://www.securityblue.team/courses/introduction-to-vulnerability-management) :&#x20;
+* [Introduction to Dark Web Operations](https://www.securityblue.team/courses/introduction-to-dark-web-operations) :
 
 
 
