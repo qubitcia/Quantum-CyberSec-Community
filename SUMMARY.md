@@ -15,6 +15,7 @@
 
 * [SOC Analyst](ps-or-defensive-security-or-ps/soc-analyst.md)
 * [Threat Detection - Investigation - Response](ps-or-defensive-security-or-ps/threat-detection-investigation-response.md)
+* [Threat Intelligence](ps-or-defensive-security-or-ps/threat-intelligence.md)
 * [Security Engineering](ps-or-defensive-security-or-ps/security-engineering.md)
 * [Digital Forensics](ps-or-defensive-security-or-ps/digital-forensics.md)
 * [Network Security](ps-or-defensive-security-or-ps/network-security.md)

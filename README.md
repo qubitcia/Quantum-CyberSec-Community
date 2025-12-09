@@ -1,8 +1,10 @@
 ---
 icon: hand-wave
+coverY: 0
+coverHeight: 321
 ---
 
-# Quantum CyberSec Community
+# Q-Repo
 
 Este repositorio recopila y organiza el conocimiento compartido en la comunidad **Quantum CyberSec Community**, siguiendo una estructura por áreas de ciberseguridad (Blue Team, Red Team, Networking, etc.).
 
