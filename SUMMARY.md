@@ -20,6 +20,7 @@
 * [Digital Forensics](ps-or-defensive-security-or-ps/digital-forensics.md)
 * [Network Security](ps-or-defensive-security-or-ps/network-security.md)
 * [Application Security](ps-or-defensive-security-or-ps/application-security.md)
+* [Cloud Security](ps-or-defensive-security-or-ps/cloud-security.md)
 
 ## ⟨ Ψ | 🔴 • Offensive Security | Ψ ⟩
 
