@@ -1,6 +1,7 @@
 ---
-coverY: 0
-coverHeight: 320
+cover: ../.gitbook/assets/Intro to Cybersecurity.png
+coverY: -12.83890577507599
+coverHeight: 452
 ---
 
 # Intro to Cybersecurity
