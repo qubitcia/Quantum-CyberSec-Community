@@ -1,7 +1,7 @@
 ---
 cover: ../.gitbook/assets/Security Engineering.png
-coverY: 1.9437093607930938
-coverHeight: 319
+coverY: 48.6306394519785
+coverHeight: 388
 ---
 
 # Security Engineering

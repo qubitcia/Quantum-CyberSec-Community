@@ -1,7 +1,7 @@
 ---
 cover: ../.gitbook/assets/Threat Detection - Investigation - Response.png
-coverY: -36.072735593390014
-coverHeight: 320
+coverY: 36.29200604794737
+coverHeight: 390
 ---
 
 # Threat Detection - Investigation - Response

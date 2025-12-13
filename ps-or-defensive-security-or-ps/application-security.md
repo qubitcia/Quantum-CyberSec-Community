@@ -1,7 +1,7 @@
 ---
-cover: ../.gitbook/assets/Application Security.png
-coverY: 35.015197568389056
-coverHeight: 320
+cover: ../.gitbook/assets/Application Security (1).png
+coverY: 19.8419452887538
+coverHeight: 390
 ---
 
 # Application Security

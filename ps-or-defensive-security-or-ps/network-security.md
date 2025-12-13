@@ -1,7 +1,7 @@
 ---
 cover: ../.gitbook/assets/Network Security.png
-coverY: -155.8100185077295
-coverHeight: 322
+coverY: -103.28722215514591
+coverHeight: 389
 ---
 
 # Network Security

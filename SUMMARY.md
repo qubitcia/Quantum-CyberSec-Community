@@ -10,6 +10,7 @@
 * [DevSecOps](ps-or-complement-for-everyone-or-ps/devsecops.md)
 * [Digital Sustainability](ps-or-complement-for-everyone-or-ps/digital-sustainability.md)
 * [Data Engineering](ps-or-complement-for-everyone-or-ps/data-engineering.md)
+* [Database](ps-or-complement-for-everyone-or-ps/database.md)
 
 ## ⟨ Ψ | 🔵 • Defensive Security | Ψ ⟩
 

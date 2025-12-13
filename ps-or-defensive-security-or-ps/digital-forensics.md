@@ -1,7 +1,7 @@
 ---
 cover: ../.gitbook/assets/Digital Forensics.png
-coverY: 32.151169075479245
-coverHeight: 321
+coverY: 89.34265843718137
+coverHeight: 389
 ---
 
 # Digital Forensics

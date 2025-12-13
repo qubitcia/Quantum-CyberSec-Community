@@ -1,7 +1,7 @@
 ---
-cover: ../.gitbook/assets/Cloud Security.png
-coverY: -2.3343465045592704
-coverHeight: 321
+cover: ../.gitbook/assets/Cloud Security (1).png
+coverY: 30.346504559270514
+coverHeight: 391
 ---
 
 # Cloud Security
