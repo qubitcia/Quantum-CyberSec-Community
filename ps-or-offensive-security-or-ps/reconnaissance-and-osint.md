@@ -1,7 +1,7 @@
 ---
-cover: ../.gitbook/assets/ChatGPT Image 13 dic 2025, 08_16_15.png
-coverY: 16.28331613730794
-coverHeight: 321
+cover: ../.gitbook/assets/Reconnaissance & OSINT.png
+coverY: 11.614623128189397
+coverHeight: 390
 ---
 
 # Reconnaissance & OSINT
