@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/ChatGPT Image 28 nov 2025, 14_15_18.png
-coverY: 67.98466464412272
+cover: ../.gitbook/assets/Digital Sustainability.png
+coverY: 108.83572847390994
 coverHeight: 320
 ---
 

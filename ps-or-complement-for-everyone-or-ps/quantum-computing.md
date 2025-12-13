@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/ChatGPT Image 28 sept 2025, 15_05_14.png
-coverY: -14.189376443418015
+cover: ../.gitbook/assets/Quantum Computing!!! Wallpaper.png
+coverY: 4.485395593056149
 coverHeight: 322
 ---
 
