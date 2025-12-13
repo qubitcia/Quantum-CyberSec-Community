@@ -1,6 +1,6 @@
 ---
 coverY: 0
-coverHeight: 317
+coverHeight: 320
 ---
 
 # Intro to Cybersecurity
