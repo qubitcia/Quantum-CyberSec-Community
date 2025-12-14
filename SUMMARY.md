@@ -28,7 +28,8 @@
 * [Ethical Hacking](ps-or-offensive-security-or-ps/ethical-hacking.md)
 * [Reconnaissance & OSINT](ps-or-offensive-security-or-ps/reconnaissance-and-osint.md)
 * [Application Pentesting](ps-or-offensive-security-or-ps/application-pentesting.md)
-* [Cloud Pentest](ps-or-offensive-security-or-ps/cloud-pentest.md)
+* [Malware Development](ps-or-offensive-security-or-ps/malware-development.md)
+* [Cloud Pentesting](ps-or-offensive-security-or-ps/cloud-pentesting.md)
 
 ## ⟨ Ψ | 💻 • Programming Hub | Ψ ⟩
 
