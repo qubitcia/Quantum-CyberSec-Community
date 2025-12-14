@@ -13,6 +13,7 @@
 * [Data Engineering](ps-or-complement-for-everyone-or-ps/data-engineering.md)
 * [Database](ps-or-complement-for-everyone-or-ps/database.md)
 * [Blockchain](ps-or-complement-for-everyone-or-ps/blockchain.md)
+* [Linux](ps-or-complement-for-everyone-or-ps/linux.md)
 
 ## ⟨ Ψ | 🔵 • Defensive Security | Ψ ⟩
 
