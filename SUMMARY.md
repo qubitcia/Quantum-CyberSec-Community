@@ -6,11 +6,13 @@
 
 * [Intro to Cybersecurity](ps-or-complement-for-everyone-or-ps/intro-to-cybersecurity.md)
 * [Quantum Computing!!!](ps-or-complement-for-everyone-or-ps/quantum-computing.md)
+* [Artificial Intelligence](ps-or-complement-for-everyone-or-ps/artificial-intelligence.md)
 * [DevOps](ps-or-complement-for-everyone-or-ps/devops.md)
 * [DevSecOps](ps-or-complement-for-everyone-or-ps/devsecops.md)
 * [Digital Sustainability](ps-or-complement-for-everyone-or-ps/digital-sustainability.md)
 * [Data Engineering](ps-or-complement-for-everyone-or-ps/data-engineering.md)
 * [Database](ps-or-complement-for-everyone-or-ps/database.md)
+* [Blockchain](ps-or-complement-for-everyone-or-ps/blockchain.md)
 
 ## ⟨ Ψ | 🔵 • Defensive Security | Ψ ⟩
 
