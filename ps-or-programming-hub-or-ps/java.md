@@ -1,7 +1,7 @@
 ---
 cover: ../.gitbook/assets/Java Wallpaper.png
-coverY: 83.4399387911247
-coverHeight: 321
+coverY: 96.27884456620069
+coverHeight: 392
 ---
 
 # Java

@@ -1,7 +1,7 @@
 ---
 cover: ../.gitbook/assets/JS Wallpaper.png
 coverY: 2.9472073450650345
-coverHeight: 380
+coverHeight: 388
 ---
 
 # JavaScript (JS)

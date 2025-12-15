@@ -1,7 +1,7 @@
 ---
 cover: ../.gitbook/assets/C Wallpaper.png
 coverY: -15.277735271614384
-coverHeight: 323
+coverHeight: 390
 ---
 
 # C

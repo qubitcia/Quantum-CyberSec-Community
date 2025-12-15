@@ -1,7 +1,7 @@
 ---
 cover: ../.gitbook/assets/Ruby Wallpaper.png
 coverY: 24.679418515684745
-coverHeight: 321
+coverHeight: 390
 ---
 
 # Ruby

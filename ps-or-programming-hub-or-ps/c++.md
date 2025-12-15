@@ -1,7 +1,7 @@
 ---
 cover: ../.gitbook/assets/C++ Wallpaper.png
 coverY: 14.102524866105584
-coverHeight: 322
+coverHeight: 391
 ---
 
 # C++

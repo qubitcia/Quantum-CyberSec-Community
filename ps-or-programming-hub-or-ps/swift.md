@@ -1,7 +1,7 @@
 ---
 cover: ../.gitbook/assets/Swift Wallpaper.png
-coverY: 0
-coverHeight: 321
+coverY: 10.504559270516717
+coverHeight: 387
 ---
 
 # Swift

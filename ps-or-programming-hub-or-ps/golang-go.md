@@ -1,7 +1,7 @@
 ---
 cover: ../.gitbook/assets/Go Wallpaper.png
 coverY: 31.730680948737565
-coverHeight: 319
+coverHeight: 390
 ---
 
 # Golang (Go)

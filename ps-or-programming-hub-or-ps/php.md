@@ -1,7 +1,7 @@
 ---
 cover: ../.gitbook/assets/PHP Wallpaper.png
-coverY: 29.38026013771997
-coverHeight: 321
+coverY: 24.711567128601427
+coverHeight: 388
 ---
 
 # PHP

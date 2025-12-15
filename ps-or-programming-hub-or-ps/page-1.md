@@ -1,7 +1,7 @@
 ---
 cover: ../.gitbook/assets/ChatGPT Image 6 dic 2025, 20_08_52.png
-coverY: -45.833205814843154
-coverHeight: 322
+coverY: -32.99430003976717
+coverHeight: 388
 ---
 
 # TypeScript (TS)

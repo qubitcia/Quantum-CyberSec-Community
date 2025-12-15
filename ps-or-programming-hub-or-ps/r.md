@@ -1,7 +1,7 @@
 ---
 cover: ../.gitbook/assets/R Wallpaper.png
 coverY: 0
-coverHeight: 320
+coverHeight: 388
 ---
 
 # R

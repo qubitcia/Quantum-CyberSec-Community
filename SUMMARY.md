@@ -25,6 +25,7 @@
 * [Network Security](ps-or-defensive-security-or-ps/network-security.md)
 * [Application Security](ps-or-defensive-security-or-ps/application-security.md)
 * [Cloud Security](ps-or-defensive-security-or-ps/cloud-security.md)
+* [Data Protection](ps-or-defensive-security-or-ps/data-protection.md)
 
 ## ⟨ Ψ | 🔴 • Offensive Security | Ψ ⟩
 

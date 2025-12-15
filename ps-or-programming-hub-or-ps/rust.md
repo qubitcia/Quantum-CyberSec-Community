@@ -1,7 +1,7 @@
 ---
 cover: ../.gitbook/assets/Rust Wallpaper.png
 coverY: -2.192042846212701
-coverHeight: 321
+coverHeight: 390
 ---
 
 # Rust
