@@ -17,3 +17,20 @@ Esta es una recopilación de los cursos/certificados gratuitos sobre Computació
 
 * [Introduction to Quantum Computing with Qiskit (with IBM Quantum)](https://open.hpi.de/courses/qc-qiskit2022) :&#x20;
 * [Quantum Machine Learning (with IBM Quantum)](https://open.hpi.de/courses/qc-machineLearning2023) :&#x20;
+
+<figure><img src="../.gitbook/assets/qureca.png" alt=""><figcaption><p><a href="https://www.qureca.com/"><strong>Qureca</strong></a></p></figcaption></figure>
+
+* [Introduction to the Quantum Ecosystem (module)](https://lms.qureca.com/product/introduction-to-the-quantum-ecosystem-module/?v=dd07de856139) :&#x20;
+* [Quantum Communication and Quantum Networks](https://lms.qureca.com/product/quantum-communication-and-quantum-networks/?v=dd07de856139) :&#x20;
+* [Quantum Myths](https://lms.qureca.com/product/quantum-myths/?v=dd07de856139) :&#x20;
+* [Why is Quantum so special? Basic rules of quantum physics](https://lms.qureca.com/product/why-is-quantum-so-special-basic-rules-of-quantum-physics/?v=dd07de856139) :&#x20;
+* [ADEQUATE (Advanced End-to-end QUAntum computing TEchnical) Course](https://lms.qureca.com/product/adequate/?v=dd07de856139) :&#x20;
+
+<figure><img src="../.gitbook/assets/IYQ.png" alt=""><figcaption><p><a href="https://quantum2025.org/"><strong>International Year of Quantum Science and Technology (IYQ 2025)</strong></a></p></figcaption></figure>
+
+* [Quantum For Everyone](https://www.quantum-course.com/) :&#x20;
+
+<figure><img src="../.gitbook/assets/Dwave.png" alt=""><figcaption><p><a href="https://www.dwavequantum.com/learn/training/"><strong>D-Wave Quantum</strong></a></p></figcaption></figure>
+
+* [Introduction to Quantum Computing](https://training.dwavequantum.com/product?catalog=IntroductionQuantumComputing) : ... ⚠️: Debido a que no hay soporte para Perú, al crearse la cuenta para el curso gratuito lo que tienen que hacer es cambiar el pais de domicilio a Spain y poner una dirección de este link: https://www.fakexy.com/fake-address-generator-es y eso es todo, disfruten de su certificado gratuito 😉.
+
