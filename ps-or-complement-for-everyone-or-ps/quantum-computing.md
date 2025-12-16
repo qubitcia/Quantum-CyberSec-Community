@@ -1,7 +1,7 @@
 ---
 cover: ../.gitbook/assets/Quantum Computing!!! Wallpaper.png
 coverY: 4.485395593056149
-coverHeight: 322
+coverHeight: 391
 ---
 
 # Quantum Computing!!!
