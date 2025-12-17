@@ -27,6 +27,7 @@
 * [Cloud Security](ps-or-defensive-security-or-ps/cloud-security.md)
 * [Data Protection](ps-or-defensive-security-or-ps/data-protection.md)
 * [CPS Security](ps-or-defensive-security-or-ps/cps-security.md)
+* [OT/ICS Security](ps-or-defensive-security-or-ps/ot-ics-security.md)
 
 ## ⟨ Ψ | 🔴 • Offensive Security | Ψ ⟩
 

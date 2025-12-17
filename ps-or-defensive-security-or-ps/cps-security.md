@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/CPS Security.png
-coverY: 15.173252279635257
+coverY: 12.838905775075986
 coverHeight: 391
 ---
 
