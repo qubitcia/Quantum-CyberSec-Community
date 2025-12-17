@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/Threat Intelligence.png
-coverY: 24.671381362455612
+coverY: 37.349544072948326
 coverHeight: 392
 ---
 
