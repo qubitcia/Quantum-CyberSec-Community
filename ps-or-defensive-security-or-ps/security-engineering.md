@@ -6,7 +6,7 @@ coverHeight: 388
 
 # Security Engineering
 
-Esta es una recopilación de los cursos/certificados gratuitos para Ingenieros de Seguridad en Ciberseguridad:
+Esta es una recopilación de cursos/certificados gratuitos para Ingenieros de Seguridad en Ciberseguridad:
 
 <figure><img src="../.gitbook/assets/cybrary logo (1).png" alt=""><figcaption><p><a href="https://www.cybrary.it/"><strong>Cybrary</strong></a></p></figcaption></figure>
 

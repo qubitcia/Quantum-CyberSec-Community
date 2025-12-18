@@ -6,7 +6,7 @@ coverHeight: 391
 
 # Cloud Security
 
-Esta es una recopilación de los cursos/certificados gratuitos sobre Seguridad en la Nube:
+Esta es una recopilación de cursos/certificados gratuitos sobre Seguridad en la Nube:
 
 <figure><img src="../.gitbook/assets/channels4_profile (1).png" alt=""><figcaption><p><a href="https://www.academy.attackiq.com/"><strong>AttackIQ Academy</strong></a></p></figcaption></figure>
 

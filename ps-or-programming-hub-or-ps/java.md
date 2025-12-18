@@ -6,7 +6,7 @@ coverHeight: 392
 
 # Java
 
-Esta es una recopilación de los cursos/certificados gratuitos sobre Java:
+Esta es una recopilación de cursos/certificados gratuitos sobre Java:
 
 <figure><img src="../.gitbook/assets/292462037_36da.jpg" alt=""><figcaption><p><a href="https://www.simplilearn.com/skillup-free-online-courses"><strong>Simplilearn - Skillup</strong></a></p></figcaption></figure>
 

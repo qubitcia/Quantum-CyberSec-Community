@@ -6,7 +6,7 @@ coverHeight: 389
 
 # Network Security
 
-Esta es una recopilación de los cursos/certificados gratuitos sobre Seguridad en Redes:
+Esta es una recopilación de cursos/certificados gratuitos sobre Seguridad en Redes:
 
 <figure><img src="../.gitbook/assets/sdasdasd (1).png" alt=""><figcaption><p><a href="https://www.netacad.com/"><strong>Cisco Networking Academy</strong></a></p></figcaption></figure>
 

@@ -6,7 +6,7 @@ coverHeight: 390
 
 # C
 
-Esta es una recopilación de los cursos/certificados gratuitos sobre C:
+Esta es una recopilación de cursos/certificados gratuitos sobre C:
 
 <figure><img src="../.gitbook/assets/c++ institute logo.png" alt=""><figcaption><p><a href="https://cppinstitute.org/"><strong>C++ Institute</strong></a></p></figcaption></figure>
 

@@ -6,7 +6,7 @@ coverHeight: 391
 
 # C++
 
-Esta es una recopilación de los cursos/certificados gratuitos sobre C++:
+Esta es una recopilación de cursos/certificados gratuitos sobre C++:
 
 <figure><img src="../.gitbook/assets/sdasdasd (1).png" alt=""><figcaption><p><a href="https://www.netacad.com/"><strong>Cisco Networking Academy</strong></a></p></figcaption></figure>
 

@@ -6,7 +6,7 @@ coverHeight: 392
 
 # Threat Intelligence
 
-Esta es una recopilación de los cursos/certificados gratuitos para Inteligencia de Amenazas:
+Esta es una recopilación de cursos/certificados gratuitos para Inteligencia de Amenazas:
 
 <figure><img src="../.gitbook/assets/channels4_profile (1).png" alt=""><figcaption><p><a href="https://www.academy.attackiq.com/"><strong>AttackIQ Academy</strong></a></p></figcaption></figure>
 

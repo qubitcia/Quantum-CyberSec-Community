@@ -6,7 +6,7 @@ coverHeight: 387
 
 # Swift
 
-Esta es una recopilación de los cursos/certificados gratuitos sobre Golang:
+Esta es una recopilación de cursos/certificados gratuitos sobre Golang:
 
 <figure><img src="../.gitbook/assets/Udacity_logo (1).png" alt=""><figcaption><p><a href="https://www.udacity.com/"><strong>Udacity</strong></a></p></figcaption></figure>
 

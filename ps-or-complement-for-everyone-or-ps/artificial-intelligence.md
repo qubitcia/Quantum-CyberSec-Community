@@ -4,5 +4,5 @@ coverY: 103.87841945288753
 coverHeight: 387
 ---
 
-# Artificial Intelligence
+# Artificial Intelligence (AI)
 

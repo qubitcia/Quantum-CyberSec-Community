@@ -6,7 +6,7 @@ coverHeight: 390
 
 # Threat Detection - Investigation - Response
 
-Esta es una recopilación de los cursos/certificados gratuitos sobre Detección, investigación y respuesta ante amenazas (TDIR):
+Esta es una recopilación de cursos/certificados gratuitos sobre Detección, investigación y respuesta ante amenazas (TDIR):
 
 <figure><img src="../.gitbook/assets/Adobe Express - file (1) (1).png" alt=""><figcaption><p><a href="https://xmcyber.com/"><strong>XM Cyber</strong></a></p></figcaption></figure>
 

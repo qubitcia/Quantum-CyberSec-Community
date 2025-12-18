@@ -6,7 +6,7 @@ coverHeight: 391
 
 # AI Security
 
-Esta es una recopilación de los cursos/certificados gratuitos sobre Seguridad de IA:
+Esta es una recopilación de cursos/certificados gratuitos sobre Seguridad de IA:
 
 <figure><img src="../.gitbook/assets/channels4_profile (1).png" alt=""><figcaption><p><a href="https://www.academy.attackiq.com/"><strong>AttackIQ Academy</strong></a></p></figcaption></figure>
 

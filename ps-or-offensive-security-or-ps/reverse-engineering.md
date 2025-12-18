@@ -6,7 +6,7 @@ coverHeight: 388
 
 # Reverse Engineering
 
-Esta es una recopilación de los cursos/certificados gratuitos sobre Ingeniería Reversa:
+Esta es una recopilación de cursos/certificados gratuitos sobre Ingeniería Reversa:
 
 <figure><img src="../.gitbook/assets/1672506925056.png" alt=""><figcaption><p><a href="https://www.aceresponder.com/"><strong>ACE Responder</strong></a></p></figcaption></figure>
 

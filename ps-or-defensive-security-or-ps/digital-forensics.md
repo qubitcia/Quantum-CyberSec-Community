@@ -6,7 +6,7 @@ coverHeight: 389
 
 # Digital Forensics
 
-Esta es una recopilación de los cursos/certificados gratuitos sobre Análisis Forense Digital:
+Esta es una recopilación de cursos/certificados gratuitos sobre Análisis Forense Digital:
 
 <figure><img src="../.gitbook/assets/cybrary logo (1).png" alt=""><figcaption><p><a href="https://www.cybrary.it/"><strong>Cybrary</strong></a></p></figcaption></figure>
 
