@@ -6,7 +6,7 @@ coverHeight: 320
 
 # Digital Sustainability
 
-Esta es una recopilación de los cursos/certificados gratuitos sobre Sostenibilidad Digital:
+Esta es una recopilación de cursos/certificados gratuitos sobre Sostenibilidad Digital:
 
 <figure><img src="../.gitbook/assets/sdasdasd (1).png" alt=""><figcaption><p><a href="https://www.netacad.com/"><strong>Cisco Networking Academy</strong></a></p></figcaption></figure>
 

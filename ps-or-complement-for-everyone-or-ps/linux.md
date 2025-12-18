@@ -6,7 +6,7 @@ coverHeight: 388
 
 # Linux
 
-Esta es una recopilación de los cursos/certificados gratuitos sobre Linux:
+Esta es una recopilación de cursos/certificados gratuitos sobre Linux:
 
 <figure><img src="../.gitbook/assets/linux-foundation (1).png" alt=""><figcaption><p><a href="https://www.linuxfoundation.org/"><strong>The Linux Foundation</strong></a></p></figcaption></figure>
 
