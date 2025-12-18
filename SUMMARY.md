@@ -30,6 +30,7 @@
 * [OT/ICS Security](ps-or-defensive-security-or-ps/ot-ics-security.md)
 * [AI Security](ps-or-defensive-security-or-ps/ai-security.md)
 * [Endpoint Security](ps-or-defensive-security-or-ps/endpoint-security.md)
+* [Malware Analysis](ps-or-defensive-security-or-ps/malware-analysis.md)
 
 ## ⟨ Ψ | 🔴 • Offensive Security | Ψ ⟩
 
@@ -38,7 +39,7 @@
 * [Application Pentesting](ps-or-offensive-security-or-ps/application-pentesting.md)
 * [Malware Development](ps-or-offensive-security-or-ps/malware-development.md)
 * [Cloud Pentesting](ps-or-offensive-security-or-ps/cloud-pentesting.md)
-* [Page 1](ps-or-offensive-security-or-ps/page-1.md)
+* [Reverse Engineering](ps-or-offensive-security-or-ps/reverse-engineering.md)
 
 ## ⟨ Ψ | 💻 • Programming Hub | Ψ ⟩
 
