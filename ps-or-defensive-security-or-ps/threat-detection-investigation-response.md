@@ -28,3 +28,9 @@ Esta es una recopilación de los cursos/certificados gratuitos sobre Detección,
 * [Certified Security Operations Manager Demo](https://www.securityblue.team/courses/certified-security-operations-manager-demo) :&#x20;
 * [Blue Team Level 1 Demo](https://www.securityblue.team/courses/blue-team-level-1-demo) :&#x20;
 * [Blue Team Level 2 Demo](https://www.securityblue.team/courses/blue-team-level-2-demo) :&#x20;
+
+<figure><img src="../.gitbook/assets/1672506925056.png" alt=""><figcaption><p><a href="https://www.aceresponder.com/"><strong>ACE Responder</strong></a></p></figcaption></figure>
+
+* [Windows Logons](https://www.aceresponder.com/learn/windows-logons?page=%2Flearn%2Fwindows-logons) :&#x20;
+* [Exchange Logons](https://www.aceresponder.com/learn/exchange-logons?page=%2Flearn%2Fexchange-logons) :&#x20;
+* [KQL for Beginners](https://www.aceresponder.com/learn/kusto-tutorial?page=%2Flearn%2Fkusto-tutorial) :&#x20;

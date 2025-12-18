@@ -21,3 +21,7 @@ Esta es una recopilación de los cursos/certificados gratuitos para analistas SO
 * [Blue Team Level 1 Demo](https://www.securityblue.team/courses/blue-team-level-1-demo) :&#x20;
 * [Blue Team Level 2 Demo](https://www.securityblue.team/courses/blue-team-level-2-demo) :&#x20;
 
+<figure><img src="../.gitbook/assets/1672506925056.png" alt=""><figcaption><p><a href="https://www.aceresponder.com/"><strong>ACE Responder</strong></a></p></figcaption></figure>
+
+* [SIEM Tutorial](https://www.aceresponder.com/learn/opensearch-tutorial?page=%2Flearn%2Fopensearch-tutorial) :&#x20;
+
