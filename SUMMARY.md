@@ -40,6 +40,7 @@
 * [Malware Development](ps-or-offensive-security-or-ps/malware-development.md)
 * [Cloud Pentesting](ps-or-offensive-security-or-ps/cloud-pentesting.md)
 * [Reverse Engineering](ps-or-offensive-security-or-ps/reverse-engineering.md)
+* [Network Pentesting](ps-or-offensive-security-or-ps/network-pentesting.md)
 
 ## ⟨ Ψ | 💻 • Programming Hub | Ψ ⟩
 
