@@ -29,6 +29,7 @@ Esta es una recopilación de cursos/certificados gratuitos para Ingenieros de Se
 * [Vulnerability Assessment and Patch Management: Keep Your Clients Up to Date (MSP-M16)](https://learn.acronis.com/learn/catalog/ed3ec167-1491-4a30-a608-5a6cef2f702f) :&#x20;
 * [Acronis Cloud Tech Professional Advanced Security (1EN-01-CTPS-EX-2024)](https://learn.acronis.com/learn/catalog/a8c3eb50-a0be-41d5-812f-53c22661b813) :&#x20;
 * [Acronis Cloud Tech Associate Advanced Management (1EN-CTAM-EX-2024)](https://learn.acronis.com/learn/catalog/0d0490ca-af80-43f5-94b4-a5e915c51ece) :&#x20;
+* [Increasing MSPs efficiency through AI (MSP-M20)](https://learn.acronis.com/learn/catalog/1b016217-7156-4f48-a8ba-c91f49abb6b6) :&#x20;
 
 <figure><img src="../.gitbook/assets/descarga (8).png" alt=""><figcaption><p><a href="https://www.securityblue.team/"><strong>Security Blue Team</strong></a></p></figcaption></figure>
 

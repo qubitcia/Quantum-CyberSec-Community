@@ -6,12 +6,13 @@ coverHeight: 391
 
 # AI Security
 
-Esta es una recopilación de cursos/certificados gratuitos sobre Seguridad de IA:
+Esta es una recopilación de cursos/certificados gratuitos sobre Seguridad de IA (núcleo - proteger la IA/aplicado - usar la IA):
 
 <figure><img src="../.gitbook/assets/channels4_profile (1).png" alt=""><figcaption><p><a href="https://www.academy.attackiq.com/"><strong>AttackIQ Academy</strong></a></p></figcaption></figure>
 
 * [Foundations of AI Security](https://www.academy.attackiq.com/courses/foundations-of-ai-security) :&#x20;
 
-<figure><img src="../.gitbook/assets/descarga (5).png" alt=""><figcaption><p><a href="https://academy.acronis.com/"><strong>Acronis Academy</strong></a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/292462037_36da.jpg" alt=""><figcaption><p><a href="https://www.simplilearn.com/skillup-free-online-courses"><strong>Simplilearn - Skillup</strong></a></p></figcaption></figure>
 
-* [Increasing MSPs efficiency through AI (MSP-M20)](https://learn.acronis.com/learn/catalog/1b016217-7156-4f48-a8ba-c91f49abb6b6) :&#x20;
+* [Introduction to ChatGPT for Cybersecurity](https://www.simplilearn.com/free-chatgpt-cybersecurity-course-skillup) :&#x20;
+

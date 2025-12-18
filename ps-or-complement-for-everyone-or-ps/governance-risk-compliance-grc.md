@@ -25,7 +25,9 @@ Esta es una recopilación de cursos/certificados gratuitos sobre Gobierno, Riesg
 * [Cloud Tech Pro - M365 Security Posture Management (EN-PRO-SPM-EX-2025)](https://learn.acronis.com/learn/catalog/0a0a737b-c906-4874-91d0-77ab82054b06) :&#x20;
 * [Acronis Cloud Tech Professional Security Awareness Training](https://learn.acronis.com/learn/catalog/3f923519-e997-48e1-ab25-7e35bf2b65c3) :&#x20;
 
+<figure><img src="../.gitbook/assets/292462037_36da.jpg" alt=""><figcaption><p><a href="https://www.simplilearn.com/skillup-free-online-courses"><strong>Simplilearn - Skillup</strong></a></p></figcaption></figure>
 
-
-
+* [Cybersecurity in Finance](https://www.simplilearn.com/cybersecurity-in-finance-free-certification-course-skillup) :&#x20;
+* [Cybersecurity in Healthcare](https://www.simplilearn.com/cybersecurity-in-healthcare-free-certification-course-skillup) :&#x20;
+* [Introduction to CISSP Security Assessment & Testing and Security Operations](https://www.simplilearn.com/learn-cissp-security-assessment-testing-operations-skillup) :&#x20;
 

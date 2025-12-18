@@ -15,8 +15,9 @@
 * [Blockchain](ps-or-complement-for-everyone-or-ps/blockchain.md)
 * [Linux](ps-or-complement-for-everyone-or-ps/linux.md)
 * [Digital Transformation](ps-or-complement-for-everyone-or-ps/digital-transformation.md)
-* [Data Science](ps-or-complement-for-everyone-or-ps/data-science.md)
 * [Governance - Risk - Compliance (GRC)](ps-or-complement-for-everyone-or-ps/governance-risk-compliance-grc.md)
+* [Data Science](ps-or-complement-for-everyone-or-ps/data-science.md)
+* [Cryptography](ps-or-complement-for-everyone-or-ps/cryptography.md)
 
 ## ⟨ Ψ | 🔵 • Defensive Security | Ψ ⟩
 
