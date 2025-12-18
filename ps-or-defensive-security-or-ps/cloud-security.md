@@ -8,6 +8,10 @@ coverHeight: 391
 
 Esta es una recopilación de cursos/certificados gratuitos sobre Seguridad en la Nube:
 
+<figure><img src="../.gitbook/assets/Udacity_logo (1).png" alt=""><figcaption><p><a href="https://www.udacity.com/"><strong>Udacity</strong></a></p></figcaption></figure>
+
+* [Trust and Security with Google Cloud](https://www.udacity.com/course/trust-and-security-with-google-cloud--cd13564) :&#x20;
+
 <figure><img src="../.gitbook/assets/channels4_profile (1).png" alt=""><figcaption><p><a href="https://www.academy.attackiq.com/"><strong>AttackIQ Academy</strong></a></p></figcaption></figure>
 
 * [MITRE ATT\&CK Security Stack Mappings: Azure](https://www.academy.attackiq.com/courses/mitre-attck-security-stack-mappings-azure) :&#x20;

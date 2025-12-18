@@ -14,9 +14,18 @@ Esta es una recopilación de cursos/certificados gratuitos sobre Gobierno, Riesg
 * [Conversational AI: Ensuring Compliance and Mitigating Risks (LFS120)](https://training.linuxfoundation.org/training/conversational-ai-ensuring-compliance-and-mitigating-risks-lfs120/) :&#x20;
 * [Getting Started with Self-Sovereign Identity (LFS178)](https://training.linuxfoundation.org/training/getting-started-with-self-sovereign-identity-lfs178/) :&#x20;
 
-<figure><img src="../.gitbook/assets/Udacity_logo (1).png" alt=""><figcaption><p><a href="https://www.udacity.com/"><strong>Udacity</strong></a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/channels4_profile (1).png" alt=""><figcaption><p><a href="https://www.academy.attackiq.com/"><strong>AttackIQ Academy</strong></a></p></figcaption></figure>
 
-* [Hedera Hashgraph](https://www.udacity.com/course/hedera-hashgraph--cd13594) :&#x20;
+* [Uniting Threat and Risk Management with NIST 800-53 & MITRE ATT\&CK](https://www.academy.attackiq.com/courses/uniting-threat-and-risk-management-with-nist-800-53-mitre-attck) :&#x20;
+* [Strategic Cybersecurity Management](https://www.academy.attackiq.com/courses/strategic-cybersecurity-management-needs-course-guide-content-everything) :&#x20;
+* [Safeguarding the Supply Chain](https://www.academy.attackiq.com/courses/safeguarding-the-supply-chain) :&#x20;
+
+<figure><img src="../.gitbook/assets/descarga (5).png" alt=""><figcaption><p><a href="https://academy.acronis.com/"><strong>Acronis Academy</strong></a></p></figcaption></figure>
+
+* [Cloud Tech Pro - M365 Security Posture Management (EN-PRO-SPM-EX-2025)](https://learn.acronis.com/learn/catalog/0a0a737b-c906-4874-91d0-77ab82054b06) :&#x20;
+* [Acronis Cloud Tech Professional Security Awareness Training](https://learn.acronis.com/learn/catalog/3f923519-e997-48e1-ab25-7e35bf2b65c3) :&#x20;
+
+
 
 
 
