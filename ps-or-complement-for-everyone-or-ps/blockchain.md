@@ -19,4 +19,5 @@ Esta es una recopilación de cursos/certificados gratuitos sobre Blockchain:
 <figure><img src="../.gitbook/assets/blob (1).png" alt=""><figcaption><p><a href="https://www.saylor.org/"><strong>Saylor Academy</strong></a></p></figcaption></figure>
 
 * [PRDV151: Bitcoin for Everybody](https://learn.saylor.org/course/view.php?id=468) :&#x20;
+* [Bitcoin for Developers I](https://learn.saylor.org/course/view.php?id=500) :&#x20;
 
