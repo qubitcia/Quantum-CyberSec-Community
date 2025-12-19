@@ -16,5 +16,9 @@ Esta es una recopilación de cursos/certificados gratuitos sobre Criptografía:
 
 * [CS260: Introduction to Cryptography and Network Security](https://learn.saylor.org/course/view.php?id=805) :&#x20;
 
+<figure><img src="../.gitbook/assets/292462037_36da.jpg" alt=""><figcaption><p><a href="https://www.simplilearn.com/skillup-free-online-courses"><strong>Simplilearn - Skillup</strong></a></p></figcaption></figure>
+
+* [Introduction to Cryptography for Beginners](https://www.simplilearn.com/learn-cryptography-basics-free-skillup-course) :&#x20;
+
 
 
