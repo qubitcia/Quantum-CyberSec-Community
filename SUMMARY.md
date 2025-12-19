@@ -6,6 +6,7 @@
 
 * [Intro to Cybersecurity](ps-or-complement-for-everyone-or-ps/intro-to-cybersecurity.md)
 * [Quantum Computing!!!](ps-or-complement-for-everyone-or-ps/quantum-computing.md)
+* [Purple Team](ps-or-complement-for-everyone-or-ps/purple-team.md)
 * [Artificial Intelligence (AI)](ps-or-complement-for-everyone-or-ps/artificial-intelligence.md)
 * [DevOps](ps-or-complement-for-everyone-or-ps/devops.md)
 * [DevSecOps](ps-or-complement-for-everyone-or-ps/devsecops.md)
