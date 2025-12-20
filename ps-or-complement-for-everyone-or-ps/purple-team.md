@@ -28,3 +28,9 @@ Esta es una recopilación de cursos/certificados gratuitos sobre Purple Team:
 
 <figure><img src="../.gitbook/assets/images (5).png" alt=""><figcaption><p><a href="https://academy.picussecurity.com/"><strong>Purple Academy by Picus</strong></a></p></figcaption></figure>
 
+* [ATT\&CK - Windows Management Instrumentation](https://academy.picussecurity.com/course/windows-management-instrumentation) :&#x20;
+* [ATT\&CK - Windows Command Shell](https://academy.picussecurity.com/course/windows-command-shell-course) :&#x20;
+* [ATT\&CK - System Information Discovery](https://academy.picussecurity.com/course/system-information-discovery) :&#x20;
+* [ATT\&CK - Scheduled Task/Job](https://academy.picussecurity.com/course/scheduled-task) :&#x20;
+* [ATT\&CK - Remote Services](https://academy.picussecurity.com/course/remote-services) :&#x20;
+* [ATT\&CK - Registry Run Keys / Startup Folder](https://academy.picussecurity.com/course/registry-run-keys-startup-folder) :&#x20;
