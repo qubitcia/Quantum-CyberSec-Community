@@ -7,38 +7,42 @@ coverHeight: 387
 
 # Artificial Intelligence (AI)
 
+## Artificial Intelligence (AI)
+
 Esta es una recopilación de cursos/certificados gratuitos sobre Inteligencia Artificial creada por [Renzo Adrianzen](https://github.com/Rnz5):
 
-[Q-Repo: AI courses Repository](https://github.com/Rnz5/Q-repo-AI-Courses)&#x20;
+[Q-Repo: AI courses Repository](https://github.com/Rnz5/Q-repo-AI-Courses)
 
 Aqui hay una ruta predeterminada para que puedas empezar tu trayecto:
 
-# 🎓 MinnaLearn (Helsinki University)
+## Beginners Level:&#x20;
 
----
 
-## 📊 Summary
 
-*Elements of AI* is a highly popular, non-technical course designed to demystify AI for a broad audience, promoting general AI literacy.
+🎓  [MinnaLearn (Helsinki University)](https://www.minnalearn.com/) :&#x20;
 
-- **Requires an account**: Yes
-- **Total courses**: 2
-- **Free courses**: 100%
-- **Certificates**: Free (Verifiable Certificate)
-- **Primary language**: English, Spanish, French, German (+20 more)
+***
 
----
+_Elements of AI_ is a highly popular, non-technical course designed to demystify AI for a broad audience, promoting general AI literacy.
 
-## 📚 Courses Table
+* **Requires an account**: Yes
+* **Total courses**: 2
+* **Free courses**: 100%
+* **Certificates**: Free (Verifiable Certificate)
+* **Primary language**: English, Spanish, French, German (+20 more)
 
-| Course Title | Category | Level | Duration | Certificate | Link |
-|--------------|----------|-------|----------|-------------|------|
-| Elements of AI | AI Fundamentals & Ethics | **Beginner** | 30 hours | Free | [Link](https://course.elementsofai.com/) |
-| Ethics of AI | AI Fundamentals & Ethics | **Beginner** | 30 hours | Free | [Link](https://ethics-of-ai.mooc.fi/) |
+***
 
----
+### 📚 Courses Table
 
-## 📈 Stats for nerds
+| Course Title   | Category                 | Level        | Duration | Certificate | Link                                     |
+| -------------- | ------------------------ | ------------ | -------- | ----------- | ---------------------------------------- |
+| Elements of AI | AI Fundamentals & Ethics | **Beginner** | 30 hours | Free        | [Link](https://course.elementsofai.com/) |
+| Ethics of AI   | AI Fundamentals & Ethics | **Beginner** | 30 hours | Free        | [Link](https://ethics-of-ai.mooc.fi/)    |
+
+***
+
+### 📈 Stats for nerds
 
 ```json
 {
@@ -50,8 +54,7 @@ Aqui hay una ruta predeterminada para que puedas empezar tu trayecto:
 }
 
 ## Beginner&#x20;
-
-
+```
 
 
 
