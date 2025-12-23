@@ -8,7 +8,7 @@ coverHeight: 491
 
 Esta es una recopilación de cursos/certificados gratuitos para una introducción general a la Ciberseguridad:&#x20;
 
-<figure><img src="../.gitbook/assets/linux-foundation (1).png" alt=""><figcaption><p><a href="https://www.linuxfoundation.org/"><strong>The Linux Foundation</strong></a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/linux-foundation (1).png" alt=""><figcaption><p><a href="https://www.linuxfoundation.org/"><strong>The Linux Fo</strong>undation</a></p></figcaption></figure>
 
 * [Cybersecurity Essentials (LFC108)](https://training.linuxfoundation.org/training/cybersecurity-essentials-lfc108/) :&#x20;
 
