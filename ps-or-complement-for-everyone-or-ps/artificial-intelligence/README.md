@@ -17,6 +17,7 @@ Aqui hay una ruta predeterminada para que puedas empezar tu trayecto:
 
 
 <strong>Cisco Networking Academy</strong></a></p></figcaption>
+
 <figure><img src="../../.gitbook/assets/a6d81569-eb5c-4290-b4bf-d5fe9a75cd9e (1) (1) (1).gif" alt=""><figcaption><p><a href="https://www.netacad.com/"><strong>Cisco Networking Academy</strong></a></p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/a6d81569-eb5c-4290-b4bf-d5fe9a75cd9e (1) (1) (1).gif" alt=""><figcaption><p><a href="https://www.netacad.com/"><strong>Cisco Networking Academy</strong></a></p></figcaption></figure>
