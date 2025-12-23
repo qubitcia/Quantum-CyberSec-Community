@@ -6,7 +6,7 @@ coverHeight: 491
 
 # Intro to Cybersecurity
 
-Esta es una recopilación de cursos/certificados gratuitos para una introducción general a la Ciberseguridad:
+Esta es una recopilación de cursos/certificados gratuitos para una introducción general a la Ciberseguridad:&#x20;
 
 <figure><img src="../.gitbook/assets/linux-foundation (1).png" alt=""><figcaption><p><a href="https://www.linuxfoundation.org/"><strong>The Linux Foundation</strong></a></p></figcaption></figure>
 
@@ -35,3 +35,7 @@ Esta es una recopilación de cursos/certificados gratuitos para una introducció
 
 * [Introduction to Cybercrime](https://www.simplilearn.com/free-cybercrime-course-for-beginners-skillup) :&#x20;
 * [Introduction to Cyber Security](https://www.simplilearn.com/learn-cyber-security-basics-skillup) :&#x20;
+
+<figure><img src="../.gitbook/assets/descarga (11).png" alt=""><figcaption><p><a href="https://certjoin.com/"><strong>Certjoin</strong></a></p></figcaption></figure>
+
+* [Cybersecurity Awareness Certified Associate](https://certjoin.com/certifications/cybersecurity-awareness-certified-associate/) :&#x20;
