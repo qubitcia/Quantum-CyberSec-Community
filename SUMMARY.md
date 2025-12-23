@@ -10,6 +10,8 @@
 * [Artificial Intelligence (AI)](ps-or-complement-for-everyone-or-ps/artificial-intelligence/README.md)
   * [Beginner Level](ps-or-complement-for-everyone-or-ps/artificial-intelligence/beginner-level.md)
   * [Intermediate Level](ps-or-complement-for-everyone-or-ps/artificial-intelligence/intermediate-level.md)
+  * [Advanced Level](ps-or-complement-for-everyone-or-ps/artificial-intelligence/advanced-level.md)
+  * [Expert Level](ps-or-complement-for-everyone-or-ps/artificial-intelligence/expert-level.md)
 * [DevOps](ps-or-complement-for-everyone-or-ps/devops.md)
 * [DevSecOps](ps-or-complement-for-everyone-or-ps/devsecops.md)
 * [Digital Sustainability](ps-or-complement-for-everyone-or-ps/digital-sustainability.md)

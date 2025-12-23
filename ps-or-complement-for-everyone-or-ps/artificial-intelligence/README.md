@@ -15,79 +15,7 @@ Esta es una recopilación de cursos/certificados gratuitos sobre Inteligencia Ar
 
 Aqui hay una ruta predeterminada para que puedas empezar tu trayecto:
 
-#### 🎓 [Kaggle](https://www.kaggle.com) :
 
-## 📊 Summary
-
-Kaggle Learn is a collection of concise, code-centric courses for the practical implementation of Machine Learning using Python and popular libraries
-
-* **Requires an account**: Yes
-* **Total courses**: 6
-* **Free courses**: 100%
-* **Certificates**: Free (Certificados de finalización/Micro-Certificados)
-* **Primary language**: English
-
-***
-
-## 📚 Courses Table
-
-| Course Title                    | Category                 | Level            | Duration | Certificate | Link                                                                 |
-| ------------------------------- | ------------------------ | ---------------- | -------- | ----------- | -------------------------------------------------------------------- |
-| Intro to Machine Learning       | Machine Learning         | **Beginner**     | 3 hours  | Free        | [Link](https://www.kaggle.com/learn/intro-to-machine-learning)       |
-| Intermediate Machine Learning   | Machine Learning         | **Intermediate** | 4 hours  | Free        | [Link](https://www.kaggle.com/learn/intermediate-machine-learning)   |
-| Intro to Deep Learning          | Deep Learning            | **Intermediate** | 4 hours  | Free        | [Link](https://www.kaggle.com/learn/intro-to-deep-learning)          |
-| Computer Vision                 | Deep Learning            | **Intermediate** | 4 hours  | Free        | [Link](https://www.kaggle.com/learn/computer-vision)                 |
-| Intro to AI Ethics              | AI Fundamentals & Ethics | **Beginner**     | 4 hours  | Free        | [Link](https://www.kaggle.com/learn/intro-to-ai-ethics)              |
-| Machine Learning Explainability | Machine Learning         | **Beginner**     | 4 hours  | Free        | [Link](https://www.kaggle.com/learn/machine-learning-explainability) |
-
-***
-
-## 📈 Stats for nerds
-
-```json
-{
-  "last_verified": "TBD",
-  "institution_type": "Educational Platform",
-  "languages": "English",
-  "sandbox_environment": true,
-  "requires_account": true
-}
-```
-
-#### 🎓 [Saylor Academy](https://www.saylor.org) :
-
-## 📊 Summary
-
-A non-profit initiative offering numerous college-level courses, including those on AI and its business applications, completely free with an option for a low-cost, proctored certificate.
-
-* **Requires an account**: Yes
-* **Total courses**: 2
-* **Free courses**: 100%
-* **Certificates**: Free (Course Completion Certificate), Paid (Proctored Final Exam)
-* **Primary language**: English
-
-***
-
-## 📚 Courses Table
-
-| Course Title                                 | Category                 | Level            | Duration | Certificate | Link                                                     |
-| -------------------------------------------- | ------------------------ | ---------------- | -------- | ----------- | -------------------------------------------------------- |
-| CS205: Building with Artificial Intelligence | AI Fundamentals & Ethics | **Beginner**     | 48 hours | Free        | [Link](https://learn.saylor.org/course/view.php?id=777)  |
-| PRDV430: AI for Business Applications        | AI Fundamentals & Ethics | **Intermediate** | 11 hours | Free        | [Link](https://learn.saylor.org/course/view.php?id=1254) |
-
-***
-
-## 📈 Stats for nerds
-
-```json
-{
-  "last_verified": "TBD",
-  "institution_type": "Educational Platform",
-  "languages": "English",
-  "sandbox_environment": false,
-  "requires_account": true
-}
-```
 
 ## Advanced Level:
 
