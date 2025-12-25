@@ -56,3 +56,7 @@ Esta es una recopilación de cursos/certificados gratuitos para una introducció
 <figure><img src="../.gitbook/assets/descarga (11).png" alt=""><figcaption><p><a href="https://certjoin.com/"><strong>Certjoin</strong></a></p></figcaption></figure>
 
 * [Cybersecurity Awareness Certified Associate](https://certjoin.com/certifications/cybersecurity-awareness-certified-associate/) :&#x20;
+
+<figure><img src="../.gitbook/assets/OBvZBgvd_400x400.png" alt=""><figcaption><p><a href="https://www.isc2.org/"><strong>ISC2</strong></a></p></figcaption></figure>
+
+* [CC – Certified in Cybersecurity](https://www.isc2.org/certifications/cc) :&#x20;
