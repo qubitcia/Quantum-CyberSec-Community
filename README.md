@@ -14,3 +14,5 @@ El objetivo es:
 * Servir como base de consulta para la comunidad.
 * Conectarse con GitBook para ofrecer un portal navegable.
 
+Aun esta en construcción pero sientete libre de explorar lo que ofrece... :D&#x20;
+
