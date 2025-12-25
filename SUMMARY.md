@@ -66,3 +66,8 @@
 * [Swift](ps-or-programming-hub-or-ps/swift.md)
 * [PHP](ps-or-programming-hub-or-ps/php.md)
 * [Java](ps-or-programming-hub-or-ps/java.md)
+* [PowerShell](ps-or-programming-hub-or-ps/powershell.md)
+* [Shell Scripting (Bash)](ps-or-programming-hub-or-ps/shell-scripting-bash.md)
+* [SQL](ps-or-programming-hub-or-ps/sql.md)
+* [Lua](ps-or-programming-hub-or-ps/lua.md)
+* [Perl](ps-or-programming-hub-or-ps/perl.md)
