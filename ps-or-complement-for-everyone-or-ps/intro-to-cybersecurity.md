@@ -1,7 +1,24 @@
 ---
 cover: ../.gitbook/assets/Intro to Cybersecurity.png
 coverY: -12.83890577507599
-coverHeight: 491
+coverHeight: 390
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Intro to Cybersecurity
