@@ -25,5 +25,6 @@ Esta es una recopilación de cursos/certificados gratuitos para Inteligencia de 
 
 * [Introduction to Dark Web Operations](https://www.securityblue.team/courses/introduction-to-dark-web-operations) :
 
+<figure><img src="../.gitbook/assets/images (5).png" alt=""><figcaption><p><a href="https://academy.picussecurity.com/"><strong>Purple Academy by Picus</strong></a></p></figcaption></figure>
 
-
+* [The Absolute Beginner's Guide to MITRE ATT\&CK](https://academy.picussecurity.com/course/cyber-threat-intelligence) :&#x20;

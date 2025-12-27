@@ -34,3 +34,7 @@ Esta es una recopilación de cursos/certificados gratuitos sobre Detección, inv
 * [Windows Logons](https://www.aceresponder.com/learn/windows-logons?page=%2Flearn%2Fwindows-logons) :&#x20;
 * [Exchange Logons](https://www.aceresponder.com/learn/exchange-logons?page=%2Flearn%2Fexchange-logons) :&#x20;
 * [KQL for Beginners](https://www.aceresponder.com/learn/kusto-tutorial?page=%2Flearn%2Fkusto-tutorial) :&#x20;
+
+<figure><img src="../.gitbook/assets/images (5).png" alt=""><figcaption><p><a href="https://academy.picussecurity.com/"><strong>Purple Academy by Picus</strong></a></p></figcaption></figure>
+
+* [Fundamentals of SIEM Alert Rule Development](https://academy.picussecurity.com/course/fundamentals-of-siem-alert-rule-development-course) :&#x20;

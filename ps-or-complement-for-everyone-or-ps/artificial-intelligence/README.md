@@ -7,9 +7,13 @@ coverHeight: 387
 
 # Artificial Intelligence (AI)
 
-Esta es una recopilación de cursos/certificados gratuitos sobre Inteligencia Artificial creada por [Renzo Adrianzen](https://github.com/Rnz5):
+Esta es una recopilación de cursos/certificados gratuitos sobre Inteligencia Artificial creada por [Renzo Adrianzén](https://github.com/Rnz5):
+
+***
 
 #### [Q-Repo: AI courses Repository](https://github.com/Rnz5/Q-repo-AI-Courses)
+
+***
 
 Aquí hay una ruta predeterminada para que puedas empezar tu trayecto:
 

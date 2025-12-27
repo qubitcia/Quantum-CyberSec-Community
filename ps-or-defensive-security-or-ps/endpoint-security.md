@@ -22,3 +22,7 @@ Esta es una recopilación de cursos/certificados gratuitos sobre Seguridad en En
 * [Remote Desktop and Monitoring: Be There Without Being There (MSP-M14)](https://learn.acronis.com/learn/catalog/b785df4e-5993-4624-b3e5-c346debf8bb6) :&#x20;
 * [Intro to Acronis (EN-Basic-Intro-EX-2025)](https://learn.acronis.com/learn/catalog/0f750549-2c7e-472f-9ca5-e0fdbbb00ac1) :&#x20;
 * [Acronis Tech Associate Endpoint Protection Management (1EN-04-TAEPM-EX-2024)](https://learn.acronis.com/learn/catalog/90af4c6a-3038-4eb3-b8a5-da451240cfdd) :&#x20;
+
+<figure><img src="../.gitbook/assets/images (5).png" alt=""><figcaption><p><a href="https://academy.picussecurity.com/"><strong>Purple Academy by Picus</strong></a></p></figcaption></figure>
+
+* [The Beginner’s Guide to Endpoint Detection and Response (EDR)](https://academy.picussecurity.com/course/endpoint-detection-and-response-edr-course) :&#x20;

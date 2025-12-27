@@ -34,3 +34,12 @@ Esta es una recopilación de cursos/certificados gratuitos sobre Purple Team:
 * [ATT\&CK - Scheduled Task/Job](https://academy.picussecurity.com/course/scheduled-task) :&#x20;
 * [ATT\&CK - Remote Services](https://academy.picussecurity.com/course/remote-services) :&#x20;
 * [ATT\&CK - Registry Run Keys / Startup Folder](https://academy.picussecurity.com/course/registry-run-keys-startup-folder) :&#x20;
+* [ATT\&CK - Process Injection](https://academy.picussecurity.com/course/process-injection) :&#x20;
+* [ATT\&CK - PowerShell](https://academy.picussecurity.com/course/powershell) :&#x20;
+* [ATT\&CK - Impair Defenses](https://academy.picussecurity.com/course/impair-defenses) :&#x20;
+* [ATT\&CK - Masquerading](https://academy.picussecurity.com/course/masquerading) :&#x20;
+* [ATT\&CK - OS Credential Dumping](https://academy.picussecurity.com/course/credential-dumping) :&#x20;
+* [ATT\&CK - Data Encrypted for Impact](https://academy.picussecurity.com/course/data-encrypted-for-impact) :&#x20;
+* [ATT\&CK - Command and Scripting Interpreter](https://academy.picussecurity.com/course/scripting) :&#x20;
+* [Operationalizing MITRE ATT\&CK for SOCs](https://academy.picussecurity.com/course/operationalizing-mitre-attck-framework-course-certification) :&#x20;
+*

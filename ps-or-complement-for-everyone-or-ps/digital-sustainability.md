@@ -1,7 +1,7 @@
 ---
 cover: ../.gitbook/assets/Digital Sustainability.png
-coverY: 108.83572847390994
-coverHeight: 320
+coverY: 137.5923456462792
+coverHeight: 388
 ---
 
 # Digital Sustainability
