@@ -38,3 +38,4 @@ Esta es una recopilación de cursos/certificados gratuitos sobre Detección, inv
 <figure><img src="../.gitbook/assets/images (5).png" alt=""><figcaption><p><a href="https://academy.picussecurity.com/"><strong>Purple Academy by Picus</strong></a></p></figcaption></figure>
 
 * [Fundamentals of SIEM Alert Rule Development](https://academy.picussecurity.com/course/fundamentals-of-siem-alert-rule-development-course) :&#x20;
+* [Fundamentals of Modern Log Management Practices](https://academy.picussecurity.com/course/log-management-proactive-soc) :&#x20;

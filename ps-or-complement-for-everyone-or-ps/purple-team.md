@@ -42,4 +42,7 @@ Esta es una recopilación de cursos/certificados gratuitos sobre Purple Team:
 * [ATT\&CK - Data Encrypted for Impact](https://academy.picussecurity.com/course/data-encrypted-for-impact) :&#x20;
 * [ATT\&CK - Command and Scripting Interpreter](https://academy.picussecurity.com/course/scripting) :&#x20;
 * [Operationalizing MITRE ATT\&CK for SOCs](https://academy.picussecurity.com/course/operationalizing-mitre-attck-framework-course-certification) :&#x20;
+* [Foundations of Threat Hunting](https://academy.picussecurity.com/course/foundations-of-threat-hunting-training-free-course-certification) :&#x20;
+* [The Ultimate Comparative Guide: BAS vs. Traditional Security Assessment Methods](https://academy.picussecurity.com/course/bas-vs-traditional-security-assessment-free-certification) :&#x20;
+* [The Beginner's Guide to Detection Rule Validation](https://academy.picussecurity.com/course/detection-rule-validation-free-course-certification) :&#x20;
 *

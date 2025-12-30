@@ -28,3 +28,4 @@ Esta es una recopilación de cursos/certificados gratuitos para Inteligencia de 
 <figure><img src="../.gitbook/assets/images (5).png" alt=""><figcaption><p><a href="https://academy.picussecurity.com/"><strong>Purple Academy by Picus</strong></a></p></figcaption></figure>
 
 * [The Absolute Beginner's Guide to MITRE ATT\&CK](https://academy.picussecurity.com/course/cyber-threat-intelligence) :&#x20;
+* [Key Threats and Mitigation Strategies for Financial Services](https://academy.picussecurity.com/course/cyber-threats-and-risks-to-financial-services-free-course-certification) :&#x20;
