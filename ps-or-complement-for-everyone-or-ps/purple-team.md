@@ -8,6 +8,14 @@ coverHeight: 387
 
 Esta es una recopilación de cursos/certificados gratuitos sobre Purple Team:
 
+<figure><img src="../.gitbook/assets/Adobe Express - file (1) (1).png" alt=""><figcaption><p><a href="https://xmcyber.com/"><strong>XM Cyber</strong></a></p></figcaption></figure>
+
+* [Exposure Management Course](https://xmcyber.com/exposure-management-course/) :&#x20;
+
+<figure><img src="../.gitbook/assets/Udacity_logo (1).png" alt=""><figcaption><p><a href="https://www.udacity.com/"><strong>Udacity</strong></a></p></figcaption></figure>
+
+* [Operationalizing Cloud Security with Deepfence ThreatMapper](https://www.udacity.com/course/operationalizing-cloud-security-with-deepfence-threatmapper--cd12926) :&#x20;
+
 <figure><img src="../.gitbook/assets/channels4_profile (1).png" alt=""><figcaption><p><a href="https://www.academy.attackiq.com/"><strong>AttackIQ Academy</strong></a></p></figcaption></figure>
 
 * [Foundations of Purple Teaming](https://www.academy.attackiq.com/courses/foundations-of-purple-teaming) :
@@ -45,4 +53,5 @@ Esta es una recopilación de cursos/certificados gratuitos sobre Purple Team:
 * [Foundations of Threat Hunting](https://academy.picussecurity.com/course/foundations-of-threat-hunting-training-free-course-certification) :&#x20;
 * [The Ultimate Comparative Guide: BAS vs. Traditional Security Assessment Methods](https://academy.picussecurity.com/course/bas-vs-traditional-security-assessment-free-certification) :&#x20;
 * [The Beginner's Guide to Detection Rule Validation](https://academy.picussecurity.com/course/detection-rule-validation-free-course-certification) :&#x20;
-*
+* [The Beginner's Guide to Continuous Threat Exposure Management](https://academy.picussecurity.com/course/continuous-threat-exposure-management-beginners-guide) :&#x20;
+* [The Beginner's Guide to Breach and Attack Simulation Course](https://academy.picussecurity.com/course/breach-and-attack-simulation-bas-course-training-certification) :&#x20;

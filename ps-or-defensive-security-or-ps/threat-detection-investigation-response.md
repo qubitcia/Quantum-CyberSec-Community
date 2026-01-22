@@ -8,14 +8,6 @@ coverHeight: 390
 
 Esta es una recopilación de cursos/certificados gratuitos sobre Detección, investigación y respuesta ante amenazas (TDIR):
 
-<figure><img src="../.gitbook/assets/Adobe Express - file (1) (1).png" alt=""><figcaption><p><a href="https://xmcyber.com/"><strong>XM Cyber</strong></a></p></figcaption></figure>
-
-* [Exposure Management Course](https://xmcyber.com/exposure-management-course/) :&#x20;
-
-<figure><img src="../.gitbook/assets/Udacity_logo (1).png" alt=""><figcaption><p><a href="https://www.udacity.com/"><strong>Udacity</strong></a></p></figcaption></figure>
-
-* [Operationalizing Cloud Security with Deepfence ThreatMapper](https://www.udacity.com/course/operationalizing-cloud-security-with-deepfence-threatmapper--cd12926) :&#x20;
-
 <figure><img src="../.gitbook/assets/cybrary logo (1).png" alt=""><figcaption><p><a href="https://www.cybrary.it/"><strong>Cybrary</strong></a></p></figcaption></figure>
 
 * [SOC Analyst](https://app.cybrary.it/browse/paths/career-paths/soc-analyst) :&#x20;
