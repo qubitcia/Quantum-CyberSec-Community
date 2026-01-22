@@ -55,3 +55,9 @@ Esta es una recopilación de cursos/certificados gratuitos sobre Purple Team:
 * [The Beginner's Guide to Detection Rule Validation](https://academy.picussecurity.com/course/detection-rule-validation-free-course-certification) :&#x20;
 * [The Beginner's Guide to Continuous Threat Exposure Management](https://academy.picussecurity.com/course/continuous-threat-exposure-management-beginners-guide) :&#x20;
 * [The Beginner's Guide to Breach and Attack Simulation Course](https://academy.picussecurity.com/course/breach-and-attack-simulation-bas-course-training-certification) :&#x20;
+* [The Beginner's Guide to Attack Path Validation](https://academy.picussecurity.com/course/attack-path-validation-free-course-certification) :&#x20;
+* [Fundamentals of Continuous Security Validation Course](https://academy.picussecurity.com/course/continuous-security-validation-course-training-certification) :&#x20;
+* [Continuous Security Validation Use Cases Course](https://academy.picussecurity.com/course/continuous-security-validation-use-cases-course-training) :&#x20;
+* [Ransomware Detection in Late Phases of the Attack Lifecycle Course](https://academy.picussecurity.com/course/ransomware-detection-in-late-phases-free-course-certification) :&#x20;
+* [Ransomware Detection in Early Phases of the Attack Lifecycle Course](https://academy.picussecurity.com/course/ransomware-detection-in-early-phases-free-course-certification) :&#x20;
+* [Ransomware Attacks: Basics, TTPs, and Countermeasures Course](https://academy.picussecurity.com/course/ransomware-attacks-basics-ttps-countermeasures-free-course-training) :&#x20;
