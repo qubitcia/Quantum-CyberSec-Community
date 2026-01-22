@@ -31,3 +31,8 @@ Esta es una recopilación de cursos/certificados gratuitos sobre Gobierno, Riesg
 * [Cybersecurity in Healthcare](https://www.simplilearn.com/cybersecurity-in-healthcare-free-certification-course-skillup) :&#x20;
 * [Introduction to CISSP Security Assessment & Testing and Security Operations](https://www.simplilearn.com/learn-cissp-security-assessment-testing-operations-skillup) :&#x20;
 
+<figure><img src="../.gitbook/assets/ba95655755bab08a5d590b9e2d6ccd0f(1).png" alt=""><figcaption><p><a href="https://community.icttf.org/"><strong>International Cyber Threat Task Force</strong></a></p></figcaption></figure>
+
+* [Cyber Leadership Insights](https://community.icttf.org/course/cyber-leadership-insights) :&#x20;
+*
+
