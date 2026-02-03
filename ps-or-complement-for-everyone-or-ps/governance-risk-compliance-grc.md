@@ -34,5 +34,5 @@ Esta es una recopilación de cursos/certificados gratuitos sobre Gobierno, Riesg
 <figure><img src="../.gitbook/assets/ba95655755bab08a5d590b9e2d6ccd0f(1).png" alt=""><figcaption><p><a href="https://community.icttf.org/"><strong>International Cyber Threat Task Force</strong></a></p></figcaption></figure>
 
 * [Cyber Leadership Insights](https://community.icttf.org/course/cyber-leadership-insights) :&#x20;
-*
+* [Certified SME Cyber Security Officer](https://community.icttf.org/course/cybersme) :&#x20;
 

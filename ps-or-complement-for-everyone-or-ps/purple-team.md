@@ -61,3 +61,7 @@ Esta es una recopilación de cursos/certificados gratuitos sobre Purple Team:
 * [Ransomware Detection in Late Phases of the Attack Lifecycle Course](https://academy.picussecurity.com/course/ransomware-detection-in-late-phases-free-course-certification) :&#x20;
 * [Ransomware Detection in Early Phases of the Attack Lifecycle Course](https://academy.picussecurity.com/course/ransomware-detection-in-early-phases-free-course-certification) :&#x20;
 * [Ransomware Attacks: Basics, TTPs, and Countermeasures Course](https://academy.picussecurity.com/course/ransomware-attacks-basics-ttps-countermeasures-free-course-training) :&#x20;
+
+<figure><img src="../.gitbook/assets/ba95655755bab08a5d590b9e2d6ccd0f(1).png" alt=""><figcaption><p><a href="https://community.icttf.org/"><strong>International Cyber Threat Task Force</strong></a></p></figcaption></figure>
+
+* [Certified Ransomware Protection Officer](https://community.icttf.org/course/ransomwaretraining) :&#x20;
